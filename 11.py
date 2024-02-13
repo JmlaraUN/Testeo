@@ -1,0 +1,2 @@
+print("palabra")
+print("prueba")
